@@ -1,1 +1,1 @@
-# Major-Project
+# Early Fire Detection System
